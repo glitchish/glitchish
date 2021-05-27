@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # hai
-hello there, im theiocoder (aka [iocoder](https://replit.com/@iocoder))
+hello there, im [theiocoder](https://github.com/theiocoder) (aka [iocoder](https://replit.com/@iocoder))
 
-<details><summary>Things Im doing</summary>
+<details><summary>Things I'm doing</summary>
  
   - [x] Making things
   - [x] Breaking things
@@ -27,12 +27,9 @@ hello there, im theiocoder (aka [iocoder](https://replit.com/@iocoder))
   
 </details>
 
-**What I hope to ~~someday~~ do**
+[Ping me](https://github.com/theiocoder/Ping-me) and I will try to respond as soon as possible.
 
- - make a ~~working~~ programming language
- - learn *c++* and/or *java* to the full
- - make an ai ~~(maybe.. im still thinking about it...)~~
- - make a game (browser game... probably not, but maybe...)
+Doing things...
 
 |&copy; 2021 theiocoder readme blah blah blah|
 | --- |
