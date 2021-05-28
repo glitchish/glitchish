@@ -21,7 +21,7 @@ I'm [theiocoder](https://github.com/theiocoder) (aka [iocoder](https://replit.co
 <strike>Hopefully these stats are accurate</strike>
 
 ---
-![theiocoder's GitHub followers](https://img.shields.io/github/followers/Explosion-Scratch?color=00bbbb&style=for-the-badge&logo=github&logoColor=fff) 
+![theiocoder's GitHub followers](https://img.shields.io/github/followers/theiocoder?color=00bbbb&style=for-the-badge&logo=github&logoColor=fff) 
 ![GitHub visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=theiocoder.visitor.badge.reloaded&color=00bbbb&style=for-the-badge&logo=github)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=theiocoder&include_all_commits=true&show_icons=true&theme=prussian&count_private=true&cache_seconds=1801)
