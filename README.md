@@ -41,3 +41,11 @@ I'm [theiocoder](https://github.com/theiocoder) (aka [iocoder](https://replit.co
 [Ping me](https://github.com/theiocoder/Ping-me) and I will try to respond as soon as possible (but sometimes I don't notice until the last second.
 
 [Ask Me Anything](https://github.com/theiocoder/AMA) and I'll be right there <strike>hopefully</strike> (I might be a little or a lot late).
+
+Here are some coders you might want to check out:
+
+ - [iop3](https://github.com/iop3/iop3)
+ - [EpicGamer007](https://github.com/EpicGamer007/EpicGamer007)
+ - [RayhanADev](https://github.com/RayhanADev/RayhanADev)
+ - [WhippingDot](https://github.com/WhippingDot/WhippingDot)
+ - Many more [here](https://github.com/orgs/Repl-it-Coders/people)
