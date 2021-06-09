@@ -38,6 +38,8 @@ I'm [theiocoder](https://github.com/theiocoder) (aka [iocoder](https://replit.co
   
 </details>
 
+> i have forked [potato](https://github.com/theiocoder/potato) and [a thonk](https://github.com/theiocoder/thonk) and *you* should fork [a yeet](https://github.com/theiocoder/yeet)... and a [pinnapple](https://github.com/theiocoder/Pinnapple)
+
 [Ping me](https://github.com/theiocoder/Ping-me) and I will try to respond as soon as possible (but sometimes I don't notice until the last second.
 
 [Ask Me Anything](https://github.com/theiocoder/AMA) and I'll be right there <strike>hopefully</strike> (I might be a little or a lot late).
