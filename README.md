@@ -44,8 +44,8 @@ I'm [theiocoder](https://github.com/theiocoder) (aka [iocoder](https://replit.co
 
 Here are some coders you might want to check out:
 
- - [iop3](https://github.com/iop3/iop3)
- - [EpicGamer007](https://github.com/EpicGamer007/EpicGamer007)
- - [RayhanADev](https://github.com/RayhanADev/RayhanADev)
- - [WhippingDot](https://github.com/WhippingDot/WhippingDot)
+ - [iop3](https://github.com/iop3/iop3#readme)
+ - [EpicGamer007](https://github.com/EpicGamer007/EpicGamer007#readme)
+ - [RayhanADev](https://github.com/RayhanADev/RayhanADev#readme)
+ - [WhippingDot](https://github.com/WhippingDot/WhippingDot#readme)
  - Many more [here](https://github.com/orgs/Repl-it-Coders/people)
