@@ -1,12 +1,7 @@
 <h1><i>*Clearing throat*</i> Announcement:</h1>
-<h2> I will be temporarily unresponcive for a little while</h2>
-<br/>
-<p>Okey thatz all ~~ next U(•ᴥ•)U !<!--- doge ---></p>
-<br/>
-<h4>Anyway...</h4>
-<br/>
+<h1>\</h1>
 <h1><b>:new:</b>! Check out <a href="https://theiocoder.is-a.dev">my new `is-a.dev` website!</a></h1>
-
+<h1>/</h1>
 <!-- Dis so cute: 🐶🐕 -->
 <!-- ### Hi there 👋 -->
 
