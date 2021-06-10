@@ -5,6 +5,7 @@
 <br/>
 <h4>Anyway...</h4>
 <br/>
+<h1><b>:new:</b>! Check out <a href="https://theiocoder.is-a.dev">my new `is-a.dev` website!</a></h1>
 
 <!-- Dis so cute: 🐶🐕 -->
 <!-- ### Hi there 👋 -->
@@ -43,20 +44,20 @@ I'm [theiocoder](https://github.com/theiocoder) (aka [iocoder](https://replit.co
   - [x] Making things
   - [x] Breaking things
   - [x] Doing small projects <strike>that no one cares about</strike>
-  - [x] Existing
+  - [x] Existing :yum:
   
 </details>
 
-> i have forked [potato](https://github.com/theiocoder/potato) and [a thonk](https://github.com/theiocoder/thonk) and *you* should fork [a yeet](https://github.com/theiocoder/yeet)... and a [pinnapple](https://github.com/theiocoder/Pinnapple)
+> i have forked [:sweet_potato: potato](https://github.com/theiocoder/potato) and [:thinking: a thonk](https://github.com/theiocoder/thonk) and *you* should fork [:baseball:💨 a yeet](https://github.com/theiocoder/yeet)... and a [:pineapple: pinnapple](https://github.com/theiocoder/Pinnapple)
 
-[Ping me](https://github.com/theiocoder/Ping-me) and I will try to respond as soon as possible (but sometimes I don't notice until the last second.
+[:speech_balloon: Ping me](https://github.com/theiocoder/Ping-me) and I will try to respond as soon as possible (but sometimes I don't notice until the last second.
 
-[Ask Me Anything](https://github.com/theiocoder/AMA) and I'll be right there <strike>hopefully</strike> (I might be a little or a lot late).
+[:grey_question: Ask Me Anything](https://github.com/theiocoder/AMA) and I'll be right there <strike>hopefully</strike> (I might be a little or a lot late).
 
 Here are some coders you might want to check out:
 
- - [iop3](https://github.com/iop3/iop3#readme)
- - [EpicGamer007](https://github.com/EpicGamer007/EpicGamer007#readme)
- - [RayhanADev](https://github.com/RayhanADev/RayhanADev#readme)
- - [WhippingDot](https://github.com/WhippingDot/WhippingDot#readme)
- - Many more [here](https://github.com/orgs/Repl-it-Coders/people)
+ - :star: [iop3](https://github.com/iop3/iop3#readme)
+ - :star: [EpicGamer007](https://github.com/EpicGamer007/EpicGamer007#readme)
+ - :star: [RayhanADev](https://github.com/RayhanADev/RayhanADev#readme)
+ - :star: [WhippingDot](https://github.com/WhippingDot/WhippingDot#readme)
+ - :star: Many more [here](https://github.com/orgs/Repl-it-Coders/people)
