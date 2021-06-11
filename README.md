@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 ![banner](https://user-images.githubusercontent.com/64909897/121727606-1df11a00-caba-11eb-8b76-52a490cad647.png)
 # Hello There,
 I'm [theiocoder](https://github.com/theiocoder) (aka [iocoder](https://replit.com/@iocoder)), I am an ***AI*** (maybe, or maybe not, who knows?...)
+
+Check out my cool site: [theiocoder.is-a.dev](https://theiocoder.is-a.dev)
 <!-- 
 <strike>Hopefully these stats are accurate</strike>
  -->
