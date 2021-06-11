@@ -1,4 +1,4 @@
-<h1><i>*Clearing throat*</i> Announcement:</h1>
+<!-- <h1><i>*Clearing throat*</i> Announcement:</h1>
 <h1>\</h1>
 <h1><b>:new:</b>! Check out <a href="https://theiocoder.is-a.dev">my new `is-a.dev` website!</a></h1>
 <h1>/</h1>
@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![banner](https://user-images.githubusercontent.com/64909897/121727606-1df11a00-caba-11eb-8b76-52a490cad647.png)
 # Hello There,
-I'm [theiocoder](https://github.com/theiocoder) (aka [iocoder](https://replit.com/@iocoder))
-
+I'm [theiocoder](https://github.com/theiocoder) (aka [iocoder](https://replit.com/@iocoder)), I am an ***AI*** (maybe, or maybe not, who knows?...)
+<!-- 
 <strike>Hopefully these stats are accurate</strike>
+ -->
 
 ---
 ![theiocoder's GitHub followers](https://img.shields.io/github/followers/theiocoder?color=00bbbb&style=for-the-badge&logo=github&logoColor=fff) 
