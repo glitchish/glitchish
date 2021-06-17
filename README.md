@@ -64,8 +64,9 @@ Here are some coders you might want to check out:
 
 # Way, way, way more stats if you want
 
-![Profile views](https://gpvc.arturio.dev/theiocoder)
+![Metrics](https://metrics.lecoq.io/theiocoder?template=terminal&languages=1&stars=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&stars.limit=4&config.timezone=America%2FNew_York)
 
-<img src="https://github.com/theiocoder/theiocodeer/blob/master/github-metrics.svg" align="left">
+[To get your metrics](https://metrics.lecoq.io/)
 
+---
 Okay, that it, [bye!](https://github.com/)
