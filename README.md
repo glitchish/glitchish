@@ -59,3 +59,13 @@ Here are some coders you might want to check out:
  - :star: [RayhanADev](https://github.com/RayhanADev/RayhanADev#readme)
  - :star: [WhippingDot](https://github.com/WhippingDot/WhippingDot#readme)
  - :star: Many more [here](https://github.com/orgs/Repl-it-Coders/people)
+
+
+
+# Way, way, way more stats if you want
+
+![Profile views](https://gpvc.arturio.dev/theiocoder)
+
+<img src="https://github.com/theiocoder/theiocodeer/blob/master/github-metrics.svg" align="left">
+
+Okay, that it, [bye!](https://github.com/)
