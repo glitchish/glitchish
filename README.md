@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![banner](https://user-images.githubusercontent.com/64909897/121727606-1df11a00-caba-11eb-8b76-52a490cad647.png)
+![banner](https://user-images.githubusercontent.com/64909897/122756968-145b7500-d265-11eb-9d51-09cab48211cb.png)
+###### [HD Banner](https://www.canva.com/design/DAEiA68nR9M/thI0E1xLwCwvve4RWMCmJQ/view?utm_content=DAEiA68nR9M&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 # Hello There,
-I'm [theiocoder](https://github.com/theiocoder) (aka [iocoder](https://replit.com/@iocoder)), I am an ***AI*** (maybe, or maybe not, who knows?...)
+I'm [theiocoder](https://github.com/theiocoder) (aka [iocoder](https://replit.com/@iocoder))<!---, I am an ***AI*** (maybe, or maybe not, who knows?...)--->
 
 Check out my cool site: [theiocoder.is-a.dev](https://theiocoder.is-a.dev)
 <!-- 
