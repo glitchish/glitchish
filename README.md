@@ -2,7 +2,7 @@
 <h1>\</h1>
 <h1><b>:new:</b>! Check out <a href="https://theiocoder.is-a.dev">my new `is-a.dev` website!</a></h1>
 <h1></h1>
-<!-- Dis so cute: 🐶🐕 
+<!-- 🐶🐕 
 <!-- ### Hi there 👋 
 
 <!--
@@ -48,7 +48,11 @@ Check out my cool site: [theiocoder.is-a.dev](https://theiocoder.is-a.dev)
   
 </details>
 
---> i have forked [:sweet_potato: potato](https://github.com/theiocoder/potato) and [:thinking: a thonk](https://github.com/theiocoder/thonk), <!--and *you* should fork [a yeet](https://github.com/theiocoder/yeet)...--> and a [:pineapple: pinnapple](https://github.com/theiocoder/Pinnapple)
+--><!--- i have forked [:sweet_potato: potato](https://github.com/theiocoder/potato) and [:thinking: a thonk](https://github.com/theiocoder/thonk), <!--and *you* should fork [a yeet](https://github.com/theiocoder/yeet)... and a [:pineapple: pinnapple](https://github.com/theiocoder/Pinnapple) --->
+
+## Hi!
+
+This is my github README page, which means I can put ~~anything I want~~ important things to me on here.
 
 [:speech_balloon: Ping me](https://github.com/theiocoder/Ping-me) and I will try to respond as soon as possible (but sometimes I don't notice until the last second.
 
@@ -66,11 +70,11 @@ Here are some coders you might want to check out:
 ###### \**PS: If you're not on this list, guess what? ~~Your not important~~ I don't want to make a huge list of just random people and/or their alt's, so I just took away everyone *\*
 
 
-# Way, way, way more stats if you want *might be broken*
+# More stats
 
 ![Metrics](https://metrics.lecoq.io/glitchish?template=terminal&languages=1&stars=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&stars.limit=4&config.timezone=America%2FNew_York)
 
-[To get your metrics](https://metrics.lecoq.io/)
+###### [To get your metrics](https://metrics.lecoq.io/)
 
 ---
-Okay, that it, [bye!](https://github.com/)
+The ~~uneventful~~ end.
